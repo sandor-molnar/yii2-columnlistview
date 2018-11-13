@@ -11,5 +11,4 @@ use yii\helpers\ArrayHelper;
 class ColumnListView extends \yii\widgets\ListView
 {
 
-
 }
