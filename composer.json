@@ -1,0 +1,20 @@
+{
+  "name": "sanyisasha/yii2-columnlistview",
+  "type": "yii2-package",
+  "require": {
+    "yiisoft/yii2": "^2.0",
+    "php": ">=5.6"
+  },
+  "autoload": {
+    "psr-4": {
+      "sanyisasha\\yii2\\columnlistview\\": "src"
+    }
+  },
+  "authors": [
+    {
+      "name": "Molnár Sándor",
+      "email": "molnar.sandor@wwdh.hu"
+    }
+  ],
+  "minimum-stability": "dev"
+}
